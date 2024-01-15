@@ -1,8 +1,11 @@
 ﻿#include <iostream>
 
-
 int main()
 {
-    std::cout << "Hello World!\n";
+    using namespace std;
+    setlocale(LC_ALL, "ru");
+    cout << "Hello, World!\n";
+    cout << "Привет, Мир!\n";
+    
 }
 
