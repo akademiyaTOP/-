@@ -6,6 +6,25 @@ int main()
     setlocale(LC_ALL, "ru");
     cout << "Hello, World!\n";
     cout << "Привет, Мир!\n";
+    cout << "Hello, World!\n";
+    cout << "Hello, World!\n";
+    cout << "Hello, World!\n";
+    cout << "Hello, World!\n";
+    cout << "Hello, World!\n";
+    cout << "Hello, World!\n";
+    cout << "Hello, World!\n";
+    cout << "Hello, World!\n";
+
+    cout << "Привет, Мир!\n";
+    cout << "Привет, Мир!\n";
+    cout << "Привет, Мир!\n";
+    cout << "Привет, Мир!\n";
+    cout << "Привет, Мир!\n";
+    cout << "Привет, Мир!\n";
+    cout << "Привет, Мир!\n";
+
+    cout << "Привет, Мир!\n";
+    
 
     cout << "Здесь могла быть ваша реклама!" << endl;
 
